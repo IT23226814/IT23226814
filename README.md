@@ -1,10 +1,8 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" alt="Coding Animation" />
-
   <h1>Hi, I'm <strong>Vakesh Ranganathan</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/></h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=500&center=true&vCenter=true&width=800&lines=CS+Undergraduate+%40+SLIIT;Generative+AI+%7C+Full‑stack+Enthusiast;Always+learning+and+building+cool+things" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&center=true&vCenter=true&repeat=true&width=850&height=90&color=36BCF7&lines=%24+whoami+%3A+Vakesh+Ranganathan;%24+role+%3A+CS+Undergrad+%40+SLIIT;%24+interests+%3A+Generative+AI+%7C+Full%E2%80%91stack;%24+location+%3A+Colombo%2C+Sri+Lanka" alt="terminal typing animation" />
 
   <p>
     <a href="https://www.linkedin.com/in/vakesh-ranganathan/" target="_blank">
