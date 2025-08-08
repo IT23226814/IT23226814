@@ -61,50 +61,9 @@
 
 </div>
 
----
-
-### Featured Projects
-
-<details>
-  <summary><strong>FormLang++ — Domain Specific Language for HTML form generation</strong></summary>
-  <p>
-    Built a DSL with `Flex(lex)` and `Bison(yacc)` using BNF/EBNF to generate valid HTML forms.
-  </p>
-</details>
-
-<details>
-  <summary><strong>Distributed File Storage System</strong></summary>
-  <p>
-    Implemented a Python‑based distributed store with Raft‑style consensus, time sync, failure detection, and basic file ops.
-  </p>
-</details>
-
-<details>
-  <summary><strong>Learning Management System (Spring Boot + Next.js)</strong></summary>
-  <p>
-    Full‑stack LMS with Java Spring Boot, PostgreSQL, and a TypeScript/Next.js frontend. Managed Agile sprints with Jira.
-  </p>
-</details>
-
-<details>
-  <summary><strong>Textile Shop Management (Web App)</strong></summary>
-  <p>
-    Spring Boot + Thymeleaf + MySQL app to manage inventory, customer records, and order tracking.
-  </p>
-</details>
 
 ---
 
-### Awards & Certifications
-
-- **Dean’s List Award (1st, 2nd, 3rd semesters)** — 2024
-- **SLIIT Codefest – AI Sprint Finalist** — 2024
-- **IEEEXtreme 18.0** — Global Rank 830, Country Rank 72, University Rank 2 (2024)
-- **Regression and Classification (Stanford Online)** — 2024
-- **National Mathematical Olympiad (Category 3)** — 2017
-- **IESL Junior Inventor of the Year** — 2017
-
----
 
 ### Education
 
