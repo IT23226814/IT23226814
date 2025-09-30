@@ -23,9 +23,9 @@
 ### About me
 
 - **Education**: BSc (Hons) in Computer Science, `SLIIT` (2023–Present) — CGPA: **3.83**
-- **Focus**: Generative AI, full‑stack development, distributed systems
-- **Recent**: Research Intern working on AI‑driven agent architectures for adaptive learning
-- **Open to**: Internships, research collaborations, and open‑source contributions
+- **Focus**: Generative AI, full-stack development, distributed systems
+- **Recent**: Research Intern working on AI-driven agent architectures for adaptive learning
+- **Open to**: Internships, research collaborations, and open-source contributions
 
 ---
 
@@ -59,9 +59,7 @@
 
 </div>
 
-
 ---
-
 
 ### Education
 
@@ -73,26 +71,23 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT23226814&show_icons=true&theme=tokyonight" height="165" alt="stats"/>
+
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT23226814&layout=compact&theme=tokyonight" height="165" alt="top langs"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=IT23226814&theme=tokyonight" height="165" alt="streak"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=IT23226814&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT23226814&theme=tokyo-night" alt="activity graph"/>
+
+  <!-- Commit Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT23226814&theme=tokyo-night" alt="commit graph"/>
+
 </div>
 
 ---
 
 ### Get in touch
 
-- Colombo, Sri Lanka
-- Email: **vakesh99@gmail.com**
+- Colombo, Sri Lanka  
+- Email: **vakesh99@gmail.com**  
 - LinkedIn: [`vakesh-ranganathan`](https://www.linkedin.com/in/vakesh-ranganathan/)
 
 <div align="center">
   <sub>Made with ❤️ and curiosity. Always open to feedback and collaboration.</sub>
 </div>
-
-
