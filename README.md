@@ -68,6 +68,7 @@
 
 ---
 
+
 ### GitHub Stats
 
 <div align="center">
@@ -75,8 +76,8 @@
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT23226814&layout=compact&theme=tokyonight" height="165" alt="top langs"/>
 
-  <!-- Commit Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT23226814&theme=tokyo-night" alt="commit graph"/>
+  <!-- Real-time Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT23226814&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=36BCF7&line=00bfff&point=ffffff&area=true&area_color=1e3a8a" alt="real-time contribution graph"/>
 
 </div>
 
