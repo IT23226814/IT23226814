@@ -24,7 +24,7 @@
 
 - **Education**: BSc (Hons) in Computer Science, `SLIIT` (2023–Present) — CGPA: **3.83**
 - **Focus**: Generative AI, full-stack development, distributed systems
-- **Recent**: Research Intern working on AI-driven agent architectures for adaptive learning
+- **Recent**: Research Intern worked on AI-driven agent architectures for adaptive learning
 - **Open to**: Internships, research collaborations, and open-source contributions
 
 ---
@@ -61,12 +61,7 @@
 
 ---
 
-### Education
 
-- BSc (Hons) in Computer Science — `Sri Lanka Institute of Information Technology (SLIIT)` (July 2023 – Present)
-  - CGPA: **3.83**
-
----
 
 
 ### GitHub Stats
@@ -80,11 +75,7 @@
     alt="top languages"
   />
 
-  <!-- Last 12 months (calendar-style, month-wise) -->
-  <img
-    src="https://ghchart.rshah.org/36BCF7/IT23226814"
-    alt="IT23226814's GitHub contributions in the last 12 months"
-  />
+
 
 </div>
 
