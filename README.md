@@ -2,7 +2,7 @@
 
   <h1>Hi, I'm <strong>Vakesh Ranganathan</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/></h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&center=true&vCenter=true&repeat=true&width=850&height=90&color=36BCF7&lines=%24+whoami+%3A+Vakesh+Ranganathan;%24+role+%3A+CS+Undergrad+%40+SLIIT;%24+interests+%3A+Generative+AI+%7C+Full%E2%80%91stack;%24+location+%3A+Colombo%2C+Sri+Lanka" alt="terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&center=true&vCenter=true&repeat=true&width=850&height=90&color=36BCF7&lines=%24+whoami+%3A+Vakesh+Ranganathan;%24+role+%3A+CS+Undergraduate+%40+SLIIT;%24+focus+%3A+AI+Agents+%7C+Full-Stack+%7C+Distributed+Systems;%24+status+%3A+building%2C+learning%2C+shipping" alt="Typing intro"/>
 
   <p>
     <a href="https://www.linkedin.com/in/vakesh-ranganathan/" target="_blank">
@@ -61,21 +61,27 @@
 
 ---
 
-
-
-
 ### GitHub Stats
 
 <div align="center">
 
-  <!-- Repository Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IT23226814&repo=IT23226814&theme=tokyonight"
-    height="165"
-    alt="repository stats"
+    src="https://github-readme-stats.vercel.app/api?username=IT23226814&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github"
+    height="170"
+    alt="GitHub stats"
   />
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT23226814&layout=compact&langs_count=8&theme=tokyonight"
+    height="170"
+    alt="Top languages"
+  />
 
+  <img
+    src="https://streak-stats.demolab.com?user=IT23226814&theme=tokyonight"
+    height="170"
+    alt="GitHub streak"
+  />
 
 </div>
 
