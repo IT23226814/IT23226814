@@ -68,11 +68,11 @@
 
 <div align="center">
 
-  <!-- Most Used Languages -->
+  <!-- Repository Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT23226814&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IT23226814&repo=IT23226814&theme=tokyonight"
     height="165"
-    alt="top languages"
+    alt="repository stats"
   />
 
 
